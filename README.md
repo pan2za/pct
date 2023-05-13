@@ -1,4 +1,11 @@
-# Tauri Svelte Template
+# Password cracker tool
+
+### Features
+- [] Target
+- [] Policy
+- [] Tunning
+- [] Task
+- [] More...
 
 - **Tauri**
 - **GitHub action** for cross-platform builds
