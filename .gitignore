@@ -1,5 +1,6 @@
 .DS_Store
 node_modules
 /dist
+/.svelte-kit
 /src-tauri/target
 /src-tauri/WixTools
